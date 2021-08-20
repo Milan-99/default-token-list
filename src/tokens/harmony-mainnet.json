@@ -17,11 +17,11 @@
   },
   {
     "chainId": 1666600000,
-    "address": "0xEa589E93Ff18b1a1F1e9BaC7EF3E86Ab62addc79",
-    "symbol": "VIPER",
-    "name": "Viper",
+    "address": "0xEceA81B678994938E8e18eeEb70105F0DC7564c2",
+    "symbol": "FATE",
+    "name": "Fate Token",
     "decimals": 18,
-    "logoURI": "https://dvwecb5klcqus.cloudfront.net/venomswap/logos/venomswap-128x128.png"
+    "logoURI": "https://fatex.io/fatex-token-logo.png"
   },
   {
     "chainId": 1666600000,

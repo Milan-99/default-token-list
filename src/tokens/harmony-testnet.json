@@ -17,6 +17,14 @@
   },
   {
     "chainId": 1666700000,
+    "address": "0xEceA81B678994938E8e18eeEb70105F0DC7564c2",
+    "symbol": "FATE",
+    "name": "Fate Token",
+    "decimals": 18,
+    "logoURI": "https://fatex.io/fatex-token-logo.png"
+  },
+  {
+    "chainId": 1666700000,
     "address": "0x6c4387C4f570Aa8cAdcaFFc5E73ecb3D0F8Fc593",
     "symbol": "WBTC",
     "name": "Wrapped BTC",
