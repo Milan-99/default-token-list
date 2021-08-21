@@ -1,8 +1,8 @@
 {
   "name": "FATEx Default",
-  "timestamp": "2021-08-21T02:07:13.851Z",
+  "timestamp": "2021-08-21T02:34:09.702Z",
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 0
   },
@@ -407,9 +407,9 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x38ACD5aEFc372E21C0f031aa831B0a390b85aA88",
+      "address": "0x95dA53B9D7124AC16C26a15944A231F709Ff8674",
       "symbol": "FATE",
-      "name": "Fate Token",
+      "name": "FATExDAO Token",
       "decimals": 18,
       "logoURI": "https://fatex.io/fatex-token-logo.png"
     },
@@ -455,6 +455,14 @@
     },
     {
       "chainId": 1666600000,
+      "address": "0x22575877E6823970936D752cC7DF9471453B21B6",
+      "symbol": "xFATE",
+      "name": "xFATExDAO Token",
+      "decimals": 18,
+      "logoURI": "https://fatex.io/fatex-token-logo.png"
+    },
+    {
+      "chainId": 1666600000,
       "address": "0x9b68BF4bF89c115c721105eaf6BD5164aFcc51E4",
       "symbol": "XYA",
       "name": "Freyala",
@@ -487,9 +495,9 @@
     },
     {
       "chainId": 1666700000,
-      "address": "0x38ACD5aEFc372E21C0f031aa831B0a390b85aA88",
+      "address": "0x95dA53B9D7124AC16C26a15944A231F709Ff8674",
       "symbol": "FATE",
-      "name": "Fate Token",
+      "name": "FATExDAO Token",
       "decimals": 18,
       "logoURI": "https://fatex.io/fatex-token-logo.png"
     },
@@ -508,6 +516,14 @@
       "name": "Wrapped ONE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png"
+    },
+    {
+      "chainId": 1666700000,
+      "address": "0x22575877E6823970936D752cC7DF9471453B21B6",
+      "symbol": "xFATE",
+      "name": "xFATExDAO Token",
+      "decimals": 18,
+      "logoURI": "https://fatex.io/fatex-token-logo.png"
     }
   ]
 }
