@@ -9,15 +9,7 @@
   },
   {
     "chainId": 1666600000,
-    "address": "0xE176EBE47d621b984a73036B9DA5d834411ef734",
-    "symbol": "BUSD",
-    "name": "Binance USD",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0x95dA53B9D7124AC16C26a15944A231F709Ff8674",
+    "address": "0xB2e2650DFdb7b2DEc4a4455a375ffBfD926cE5FC",
     "symbol": "FATE",
     "name": "FATExDAO Token",
     "decimals": 18,
@@ -25,19 +17,11 @@
   },
   {
     "chainId": 1666600000,
-    "address": "0x22575877E6823970936D752cC7DF9471453B21B6",
+    "address": "0x6f4078cb47438157c914409d10358a0Cf4b06AB7",
     "symbol": "xFATE",
     "name": "xFATExDAO Token",
     "decimals": 18,
     "logoURI": "https://fatex.io/fatex-token-logo.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0x3C2B8Be99c50593081EAA2A724F0B8285F5aba8f",
-    "symbol": "1USDT",
-    "name": "Tether USD",
-    "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png"
   },
   {
     "chainId": 1666600000,
@@ -46,6 +30,22 @@
     "name": "USD Coin",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xE176EBE47d621b984a73036B9DA5d834411ef734",
+    "symbol": "BUSD",
+    "name": "Binance USD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x3C2B8Be99c50593081EAA2A724F0B8285F5aba8f",
+    "symbol": "1USDT",
+    "name": "Tether USD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png"
   },
   {
     "chainId": 1666600000,

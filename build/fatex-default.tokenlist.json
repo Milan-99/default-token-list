@@ -1,8 +1,8 @@
 {
   "name": "FATEx Default",
-  "timestamp": "2021-08-21T02:34:09.702Z",
+  "timestamp": "2021-08-26T20:15:27.189Z",
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 0,
     "patch": 0
   },
@@ -407,7 +407,7 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x95dA53B9D7124AC16C26a15944A231F709Ff8674",
+      "address": "0xB2e2650DFdb7b2DEc4a4455a375ffBfD926cE5FC",
       "symbol": "FATE",
       "name": "FATExDAO Token",
       "decimals": 18,
@@ -455,7 +455,7 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x22575877E6823970936D752cC7DF9471453B21B6",
+      "address": "0x6f4078cb47438157c914409d10358a0Cf4b06AB7",
       "symbol": "xFATE",
       "name": "xFATExDAO Token",
       "decimals": 18,
@@ -495,7 +495,7 @@
     },
     {
       "chainId": 1666700000,
-      "address": "0x95dA53B9D7124AC16C26a15944A231F709Ff8674",
+      "address": "0xB2e2650DFdb7b2DEc4a4455a375ffBfD926cE5FC",
       "symbol": "FATE",
       "name": "FATExDAO Token",
       "decimals": 18,
@@ -519,7 +519,7 @@
     },
     {
       "chainId": 1666700000,
-      "address": "0x22575877E6823970936D752cC7DF9471453B21B6",
+      "address": "0x6f4078cb47438157c914409d10358a0Cf4b06AB7",
       "symbol": "xFATE",
       "name": "xFATExDAO Token",
       "decimals": 18,
