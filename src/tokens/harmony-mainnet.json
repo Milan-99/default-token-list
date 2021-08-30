@@ -1,19 +1,19 @@
 [
   {
     "chainId": 1666600000,
-    "address": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
-    "symbol": "WONE",
-    "name": "Wrapped ONE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png"
-  },
-  {
-    "chainId": 1666600000,
     "address": "0xB2e2650DFdb7b2DEc4a4455a375ffBfD926cE5FC",
     "symbol": "FATE",
     "name": "FATExDAO Token",
     "decimals": 18,
     "logoURI": "https://fatex.io/fatex-token-logo.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
+    "symbol": "WONE",
+    "name": "Wrapped ONE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png"
   },
   {
     "chainId": 1666600000,
@@ -78,5 +78,29 @@
     "name": "BUSD Token",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xb1f6E61E1e113625593a22fa6aa94F8052bc39E0",
+    "symbol": "bscBNB",
+    "name": "BNB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x7aFB0E2ebA6Dc938945FE0f42484d3b8F442D0AC",
+    "symbol": "1PAXG",
+    "name": "PAX Gold",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/9519/small/paxg.PNG"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x553A1151F3Df3620fC2B5A75A6edDa629e3dA350",
+    "symbol": "1TUSD",
+    "name": "TrueUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/3449/small/tusd.png"
   }
 ]
