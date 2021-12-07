@@ -1,9 +1,9 @@
 {
   "name": "FATEx Default",
-  "timestamp": "2021-09-13T16:41:58.720Z",
+  "timestamp": "2021-12-07T20:36:03.280Z",
   "version": {
     "major": 5,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "tags": {},
@@ -327,6 +327,14 @@
     },
     {
       "chainId": 1666600000,
+      "address": "0x88B0811DdeC7c94Cc48dE601BdAbd1AC37d6940B",
+      "symbol": "bscLINK",
+      "name": "Chainlink",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
+    },
+    {
+      "chainId": 1666600000,
       "address": "0xE176EBE47d621b984a73036B9DA5d834411ef734",
       "symbol": "BUSD",
       "name": "Binance USD",
@@ -340,6 +348,14 @@
       "name": "FATExDAO Token",
       "decimals": 18,
       "logoURI": "https://fatex.io/fatex-token-logo.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x72Cb10C6bfA5624dD07Ef608027E366bd690048F",
+      "symbol": "JEWEL",
+      "name": "DeFi Kingdoms",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18570/small/fAisLIV.png?1632449282"
     },
     {
       "chainId": 1666600000,
