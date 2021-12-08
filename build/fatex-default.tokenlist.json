@@ -1,9 +1,9 @@
 {
   "name": "FATEx Default",
-  "timestamp": "2021-12-07T20:37:25.908Z",
+  "timestamp": "2021-12-08T23:37:39.857Z",
   "version": {
     "major": 8,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tags": {},
@@ -423,7 +423,7 @@
     },
     {
       "chainId": 1666700000,
-      "address": "0x0E80905676226159cC3FF62B1876C907C91F7395",
+      "address": "0xDeC283184034d06422bEa74cc93275B67eB73D0e",
       "symbol": "1BUSD",
       "name": "OneBUSD",
       "decimals": 18,
