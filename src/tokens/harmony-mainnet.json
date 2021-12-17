@@ -150,5 +150,13 @@
     "name": "Wrapped LUNA Token",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/8284/small/luna1557227471663.png?1567147072"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x582617bD8Ca80d22D4432E63Fda52D74dcDCEe4c",
+    "symbol": "bscADA",
+    "name": "Cardano Token",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/975/small/cardano.png?1547034860"
   }
 ]

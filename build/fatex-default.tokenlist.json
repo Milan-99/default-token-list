@@ -1,6 +1,6 @@
 {
   "name": "FATEx Default",
-  "timestamp": "2021-11-23T05:27:50.415Z",
+  "timestamp": "2021-12-17T16:14:44.107Z",
   "version": {
     "major": 7,
     "minor": 0,
@@ -316,6 +316,14 @@
       "name": "Avalanche",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png?1604021818"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x582617bD8Ca80d22D4432E63Fda52D74dcDCEe4c",
+      "symbol": "bscADA",
+      "name": "Cardano Token",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/975/small/cardano.png?1547034860"
     },
     {
       "chainId": 1666600000,
