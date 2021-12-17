@@ -153,6 +153,22 @@
   },
   {
     "chainId": 1666600000,
+    "address": "0x72Cb10C6bfA5624dD07Ef608027E366bd690048F",
+    "symbol": "JEWEL",
+    "name": "DeFi Kingdoms",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/18570/small/fAisLIV.png?1632449282"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x88B0811DdeC7c94Cc48dE601BdAbd1AC37d6940B",
+    "symbol": "bscLINK",
+    "name": "Chainlink",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0x582617bD8Ca80d22D4432E63Fda52D74dcDCEe4c",
     "symbol": "bscADA",
     "name": "Cardano Token",
