@@ -1,6 +1,6 @@
 {
   "name": "@fatex-dao/default-token-list",
-  "version": "11.0.0",
+  "version": "12.0.0",
   "description": "◦ The FATExDEX default token list",
   "main": "build/fatex-default.tokenlist.json",
   "scripts": {
