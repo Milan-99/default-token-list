@@ -1,9 +1,9 @@
 {
   "name": "FATEx Default",
-  "timestamp": "2022-04-13T08:25:07.006Z",
+  "timestamp": "2022-05-15T07:43:42.799Z",
   "version": {
     "major": 12,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tags": {},
@@ -255,6 +255,14 @@
     },
     {
       "chainId": 137,
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "symbol": "ETH",
+      "name": "Ether",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880"
+    },
+    {
+      "chainId": 137,
       "address": "0x4853365bC81f8270D902076892e13F27c27e7266",
       "symbol": "FATE",
       "name": "FATExFI Token",
@@ -276,6 +284,14 @@
       "name": "USD Coin",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+      "symbol": "WBTC",
+      "name": "Wrapped Bitcoin",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744"
     },
     {
       "chainId": 137,
