@@ -271,14 +271,6 @@
     },
     {
       "chainId": 137,
-      "address": "0x553d3D295e0f695B9228246232eDF400ed3560B5",
-      "symbol": "PAXG",
-      "name": "PAX Gold",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/9519/small/paxg.PNG"
-    },
-    {
-      "chainId": 137,
       "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
       "symbol": "USDC",
       "name": "USD Coin",
